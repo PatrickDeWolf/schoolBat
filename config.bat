@@ -1,0 +1,3 @@
+:openConfig
+control
+goto main
